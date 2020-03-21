@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.gusandrianos.myapplication",
+    "sha256_cert_fingerprints":
+    ["21:0A:C8:AA:44:AF:71:43:36:23:7C:A6:F4:16:5C:8C:DD:AB:34:2F:C8:AF:B8:8E:13:69:7A:A2:B2:54:33:62"]
+  }
+}]
