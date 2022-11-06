@@ -571,6 +571,13 @@ a:hover {
     animation-delay: 1.25s;
 }
 
+#header nav li:nth-child(5) {
+    -moz-animation-delay: 1.5s;
+    -webkit-animation-delay: 1.5s;
+    -ms-animation-delay: 1.5s;
+    animation-delay: 1.5s;
+}
+
 #header nav a {
     -webkit-tap-highlight-color: transparent;
     -webkit-touch-callout: none;
